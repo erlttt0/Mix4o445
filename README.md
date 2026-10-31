@@ -1,47 +1,49 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:392b69,100:8b5cf6&height=220&section=header&text=YOUNESS%20MAHDAR&fontSize=44&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=creative%20code%20%E2%80%A2%20digital%20experiments&descAlignY=59&descSize=16" width="100%" alt="Youness Mahdar — creative code and digital experiments" />
+<sub>✦ &nbsp; Y O U N E S S &nbsp; M A H D A R &nbsp; / &nbsp; M I X 4 O 4 4 5 &nbsp; ✦</sub>
 
-**I like making the tools we use feel a little more alive.**
+# Making pixels feel alive.
 
-<sub>DESKTOP CUSTOMIZATION &nbsp; / &nbsp; GENERATIVE VISUALS &nbsp; / &nbsp; OPEN SOURCE</sub>
+**Creative code, immersive interfaces, and little experiments<br />that make a workspace feel like yours.**
 
-<br /><br />
+[Explore the work ↓](#selected-work) &nbsp;&nbsp; · &nbsp;&nbsp; [All repositories ↗](https://github.com/Mix4o445?tab=repositories)
 
-[![Explore repositories](https://img.shields.io/badge/EXPLORE_THE_WORK-8B5CF6?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Mix4o445?tab=repositories)
+<br />
+
+<a href="https://mix4o445.github.io/antigravity-ascii-wallpapers/">
+  <img src="https://github.com/Mix4o445/antigravity-ascii-wallpapers/raw/main/assets/aurora.jpg" alt="Aurora, an animated ASCII wallpaper for Antigravity" width="100%" />
+</a>
+
+<sub>↑ &nbsp; AURORA &nbsp; / &nbsp; AN ASCII WALLPAPER FOR ANTIGRAVITY</sub>
 
 </div>
 
 <br />
 
-## ◇ &nbsp; Selected work
+## Selected work
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-### [01 / ASCII Wallpapers](https://github.com/Mix4o445/antigravity-ascii-wallpapers)
+### 01 &nbsp; / &nbsp; [ASCII Wallpapers ↗](https://github.com/Mix4o445/antigravity-ascii-wallpapers)
 
-**Motion meets the terminal aesthetic.**
+**A little atmosphere for your workspace.**
 
-23 live, animated ASCII-art wallpapers for the Antigravity desktop app. An unofficial mod for giving your workspace a little more character.
+23 animated scenes made from text characters, with a theme picker and app-wide colors. An unofficial Antigravity mod.
 
-`JavaScript` &nbsp; `ASCII art` &nbsp; `Animation`
-
-[Explore the project ↗](https://github.com/Mix4o445/antigravity-ascii-wallpapers)
+[![View the demo](https://img.shields.io/badge/VIEW_THE_DEMO-8b5cf6?style=for-the-badge)](https://mix4o445.github.io/antigravity-ascii-wallpapers/)
 
 </td>
 <td width="50%" valign="top">
 
-### [02 / Gemini Theme](https://github.com/Mix4o445/antigravity-gemini-theme)
+### 02 &nbsp; / &nbsp; [Gemini Theme ↗](https://github.com/Mix4o445/antigravity-gemini-theme)
 
-**A darker point of view.**
+**A new look for the tools you use.**
 
-A Gemini-inspired dark theme for Antigravity, complete with a reversible Windows installer.
+A Gemini-inspired dark theme for Antigravity, with a reversible Windows installer.
 
-`JavaScript` &nbsp; `Theming` &nbsp; `Windows`
-
-[Explore the project ↗](https://github.com/Mix4o445/antigravity-gemini-theme)
+[![Explore the project](https://img.shields.io/badge/EXPLORE_THE_PROJECT-30363d?style=for-the-badge)](https://github.com/Mix4o445/antigravity-gemini-theme)
 
 </td>
 </tr>
@@ -49,18 +51,25 @@ A Gemini-inspired dark theme for Antigravity, complete with a reversible Windows
 
 <br />
 
-## ◇ &nbsp; The idea
+### A few more worlds in text
 
-Small details change how a digital space feels. This is where I share experiments in visual expression, customization, and making everyday software more personal.
-
-`build → experiment → share → repeat`
+<table>
+<tr>
+<td width="50%"><a href="https://github.com/Mix4o445/antigravity-ascii-wallpapers"><img src="https://github.com/Mix4o445/antigravity-ascii-wallpapers/raw/main/assets/koi.jpg" alt="Koi Pond ASCII wallpaper" width="100%" /></a><br /><sub>01 / KOI POND</sub></td>
+<td width="50%"><a href="https://github.com/Mix4o445/antigravity-ascii-wallpapers"><img src="https://github.com/Mix4o445/antigravity-ascii-wallpapers/raw/main/assets/retro.jpg" alt="Retro Sunset ASCII wallpaper" width="100%" /></a><br /><sub>02 / RETRO SUNSET</sub></td>
+</tr>
+</table>
 
 <br />
 
 <div align="center">
 
-<sub>MADE BY <strong>YOUNESS MAHDAR</strong> &nbsp;·&nbsp; <a href="https://github.com/Mix4o445">@MIX4O445</a></sub>
+**Built with curiosity. Shared in the open.**
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:392b69,100:8b5cf6&height=100&section=footer" width="100%" alt="" />
+<sub>ASCII ART &nbsp;✦&nbsp; DESKTOP CUSTOMIZATION &nbsp;✦&nbsp; CREATIVE CODE</sub>
+
+<br /><br />
+
+[![GitHub](https://img.shields.io/badge/MIX4O445-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Mix4o445)
 
 </div>
